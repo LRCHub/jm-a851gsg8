@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "「、、、 好きだよ！」",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-13T07:36:52.328818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きだよ。〜100回の後悔〜 - アコースティック ver.",
+      "artist": "Sonar Pocket",
+      "has_synced": false,
+      "path": "select/01_好きだよ。〜100回の後悔〜_-_アコースティック_ver._Sonar_Pocket.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きだよ。～100回の後悔～ - English Ver．",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/02_好きだよ。~100回の後悔~_-_English_Ver._Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きだよ。〜100回の後悔〜",
+      "artist": "Sonar Pocket",
+      "has_synced": true,
+      "path": "select/03_好きだよ。〜100回の後悔〜_Sonar_Pocket.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きだよ。~100回の後悔~ (English Ver.)",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/04_好きだよ。~100回の後悔~_(English_Ver.)_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きだよ。~100回の後悔~",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/05_好きだよ。~100回の後悔~_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "07_好きだよ、華ちゃん",
+      "artist": "アンスリウム",
+      "has_synced": true,
+      "path": "select/06_07_好きだよ、華ちゃん_アンスリウム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "06.好きだよ、君のこと(生エッチ、騎乗位、好き好き囁き、耳舐め、ディープキス)",
+      "artist": "純甘みかん",
+      "has_synced": true,
+      "path": "select/07_06.好きだよ、君のこと(生エッチ、騎乗位、好き好き囁き、耳舐め、ディープキス)_純甘みかん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "04　Track4　私、好きだよ～耳舐め騎乗位とキスハメ対面座位～",
+      "artist": "ぐらまらす工房",
+      "has_synced": true,
+      "path": "select/08_04_Track4_私、好きだよ~耳舐め騎乗位とキスハメ対面座位~_ぐらまらす工房.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「、、、好きだよ」",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_「、、、好きだよ」_モーニング娘。.txt"
+    }
+  ]
+}
